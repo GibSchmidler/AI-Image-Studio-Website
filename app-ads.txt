@@ -1,0 +1,5 @@
+# This file is intentionally hosted at:
+# https://gibschmidler.github.io/app-ads.txt
+#
+# Replace this content with your required app-ads entries, for example:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
